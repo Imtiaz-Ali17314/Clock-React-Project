@@ -1,15 +1,13 @@
 import "./App.css";
-import ClockHeading from "./components/ClockHeading";
-import ClockSlogan from "./components/ClockSlogan";
-import CurrentTime from "./components/CurrentTime";
+import Background from "./components/Background";
+import CelestialClock from "./components/CelestialClock";
 
 function App() {
   return (
-    <div className="clock-container">
-      <ClockHeading></ClockHeading>
-      <ClockSlogan></ClockSlogan>
-      <CurrentTime></CurrentTime>
-    </div>
+    <main className="clock-canvas">
+      <Background />
+      <CelestialClock />
+    </main>
   );
 }
 
