@@ -87,7 +87,7 @@ Clock-React-Project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Clock-React-Project.git
+git https://github.com/Imtiaz-Ali17314/Clock-React-Project.git
 cd Clock-React-Project
 
 # Install dependencies
