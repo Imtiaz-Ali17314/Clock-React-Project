@@ -2,7 +2,7 @@
   "name": "chronos-nebula",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Imtiaz-Ali17314.github.io/Clock-React-Project/",
+  "homepage": "https://imtiazaly.github.io/Clock-React-Project/",
   "type": "module",
   "scripts": {
     "dev": "vite",
